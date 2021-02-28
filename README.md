@@ -3,13 +3,14 @@
 
 연구목적으로 개인만 사용하실 수 있습니다.
 
-저작권법, 기타 법률에 문제가 되는 경우 talk@kakao.one으로 연락주시면 삭제하겠습니다.
+**저작권법, 기타 법률에 문제가 되는 경우 talk@kakao.one으로 연락주시면 삭제하겠습니다.**
 
 
 ## 실행방법
 ```sh
 VisualStudio 를 통해 컴파일 한 이후 실행
 winhttpcom, newtonsoft.json  라이브러리를 필요로 합니다.
+>TelegramEmoticon.exe "이모티콘 링크"
 ```
 
 ## 업데이트 내역
