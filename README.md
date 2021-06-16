@@ -22,7 +22,7 @@ winhttpcom, newtonsoft.json  라이브러리를 필요로 합니다.
 
 ## 정보
 
-배명건 – talk@kakao.one
+배서연 – talk@kakao.one
 
 GPL 3.0 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 [https://opensource.org/licenses/gpl-3.0.html]
